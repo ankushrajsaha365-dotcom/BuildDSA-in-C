@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.out
+*.exe
+*.class
+
+# Static and dynamic libraries
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.log
+
+# VS Code
+.vscode/
+
+# CodeBlocks / Dev-C++
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
