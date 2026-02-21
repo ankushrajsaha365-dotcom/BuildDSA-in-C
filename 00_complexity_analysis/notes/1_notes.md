@@ -1,9 +1,3 @@
-Alright. Since you’re building your DSA foundation properly, let’s do this clean and structured.
-
-This is **Part 1: Foundations of Complexity Analysis (Theory Only, No Code)** — formatted so you can directly use it in your repo.
-
----
-
 # 📘 Complexity Analysis — Part 1 (Foundations)
 
 ---
