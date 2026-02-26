@@ -1,8 +1,3 @@
-Good. We go deep today.
-If your basics are strong, everything else becomes easy.
-
----
-
 # 📘 Part 1: Basics of Data Structures (Detailed Viva Notes – C Focused)
 
 ---
