@@ -35,7 +35,7 @@ void display() {
     }
 }
 
-main() {
+int main() {
     int i, ch;
     while (1) {
         printf("\n Enter 1 to Push \n Enter 2 to Pop \n Enter 3 to Display \n");
