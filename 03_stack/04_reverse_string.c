@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <string.h>
+
+#define MAX 100
+
+char stack[MAX];
+int top = -1;
+
+void push(char c) {
+    if (top == MAX - 1) {
+        printf("Stack Overflow\n");
+        return;
+    }
+    stack[++top] = c;
+}
+
+char pop() {
+    if (top == -1) {
+        printf("Stack Underflow\n");
+        return '\0';
+    }
+    return stack[top--];
+}
+
+int main() {
+    char str[MAX];
+    
+    printf("Enter a string: ");
+    scanf("%s", str);
+
+    int len = strlen(str);
+
+    // Push all characters
+    for (int i = 0; i < len; i++) {
+        push(str[i]);
+    }
+
+    // Pop to reverse
+    for (int i = 0; i < len; i++) {
+        str[i] = pop();
+    }
+
+    printf("Reversed string: %s\n", str);
+
+    return 0;
+}

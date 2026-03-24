@@ -19,3 +19,5 @@
 |  14  | Array, Stack, Queue         | 17/03/26 |
 |  15  | Linked List                 | 18/03/26 |
 |  16  | Problems                    | 22/03/26 |
+|  17  | Problems(stacks)            | 24/03/26 |
+
