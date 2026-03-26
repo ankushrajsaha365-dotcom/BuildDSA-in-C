@@ -3,8 +3,7 @@
 #include <stdio.h>
 #include <limits.h>
  
-// A naive solution to finding the maximum product of two integers
-// in an array
+
 void findMaximumProduct(int arr[], int n)
 {
     // base case
