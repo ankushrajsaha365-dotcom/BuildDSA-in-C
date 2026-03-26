@@ -21,4 +21,6 @@
 |  16  | Problems                    | 22/03/26 |
 |  17  | Problems(stacks)            | 24/03/26 |
 |  18  | Sorting                     | 25/03/26 |
+|  19  | Stack                       | 26/03/26 |
+
 
